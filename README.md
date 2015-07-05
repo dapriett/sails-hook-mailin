@@ -66,3 +66,5 @@ module.exports = {
 
 };
 ```
+
+For all possible event methods, see [Mailin Events](https://github.com/Flolagale/mailin#events)
