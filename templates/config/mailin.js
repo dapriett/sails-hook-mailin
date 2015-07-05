@@ -2,5 +2,5 @@
 module.exports.mailin = {
 	enable: true,
 	port: 2500,
-	handlerService: <%= handlerService %>
+	handlerService: '<%= handlerService %>'
 }

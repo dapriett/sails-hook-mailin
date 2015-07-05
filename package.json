@@ -20,6 +20,7 @@
   "author": "Dan Prietti",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^3.10.0"
+    "lodash": "^3.10.0",
+    "mailin": "^1.0.1"
   }
 }

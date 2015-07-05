@@ -35,7 +35,7 @@ module.exports = {
       return cb( new Error('Missing rootPath') );
     }
 
-    scope.handlerService = (score.args.length) ? scope.args[0] : "MailinService";
+    scope.handlerService = (scope.args.length) ? scope.args[0] : "MailinService";
     scope.serviceFile = scope.handlerService + ".js";
 
     cb();
@@ -50,7 +50,7 @@ module.exports = {
   targets: {
     './api/services/:serviceFile': { template: 'api/services/MailinService.js' },
 
-    './conf/mailin.js': { template: 'conf/mailin.js' },
+    './config/mailin.js': { template: 'config/mailin.js' },
   },
 
   templatesDirectory: require('path').resolve(__dirname, './templates')
