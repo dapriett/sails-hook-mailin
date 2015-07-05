@@ -21,7 +21,7 @@ $ npm install sails-hook-mailin --save
 
 ### 2. install sails.js extension
 ```sh
-$ sails generate mailin-api [optional serviceHandler - default: MailinService]
+$ sails generate mailin-api
 ```
 
 This create the Mailin Service event handler, and config.  The default service name is `MailinService`, to use a different name instead use
