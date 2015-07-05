@@ -1,0 +1,25 @@
+{
+  "name": "sails-hook-mailin",
+  "version": "0.11.5",
+  "description": "Sails hook for embedding an SMPT mail server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dprietti/sails-hook-mailin.git"
+  },
+  "homepage": "https://github.com/dprietti/sails-hook-mailin",
+  "sails": {
+    "isHook": true
+  },
+  "devDependencies": {
+    "sails": "~0.11.0"
+  },
+  "author": "Dan Prietti",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
