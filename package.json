@@ -1,7 +1,7 @@
 {
   "name": "sails-hook-mailin",
-  "version": "0.11.5",
-  "description": "Sails hook for embedding an SMPT mail server",
+  "version": "1.0.0",
+  "description": "Sails hook for embedding an SMTP mail server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
