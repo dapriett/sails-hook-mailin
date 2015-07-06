@@ -1,5 +1,11 @@
 This provides a sails hook integrating [Mailin](http://mailin.io/) within your app.  Mailin is an smtp server that listens for emails and parses them as json.
 
+[![NPM version][npm-image]][npm-url] [![Dependency status][david-dm-image]][david-dm-url]
+[npm-url]: https://npmjs.org/package/sails-hook-mailin
+[npm-image]: http://img.shields.io/npm/v/sails-hook-mailin.svg
+[david-dm-url]:https://david-dm.org/dapriett/sails-hook-mailin
+[david-dm-image]:https://david-dm.org/dapriett/sails-hook-mailin.svg
+
 ## Install
 ```sh
 $ npm install sails-hook-mailin --save
