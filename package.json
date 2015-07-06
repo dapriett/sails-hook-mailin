@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dprietti/sails-hook-mailin.git"
+    "url": "git://github.com/dapriett/sails-hook-mailin.git"
   },
-  "homepage": "https://github.com/dprietti/sails-hook-mailin",
+  "homepage": "https://github.com/dapriett/sails-hook-mailin",
   "sails": {
     "isHook": true
   },
