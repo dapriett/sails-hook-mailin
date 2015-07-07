@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-mailin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sails hook for embedding an SMTP mail server",
   "main": "index.js",
   "scripts": {
